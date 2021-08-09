@@ -1,2 +1,8 @@
 # Sistem-informasi-input-data-mahasiswa
-PHP Native
+
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Bootstrap</li>
+    <li>PHP Native</li>
+</ul>
